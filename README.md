@@ -10,9 +10,6 @@ There then follows some visualizations showing mean glucose readings for each da
 
 The final set of visualisations shows % of time in high, low, in-range. 
 
-**WARNING** 
+## **WARNING** 
+This program was not created by and has never been assesd by a medical professional at any point. **DO NOT USE THIS SCRIPT TO ASSESS OR MONITOR YOUR HEALTH**. Please use accredited programs and equipment that have been recomended by medical professionals to monitor and asses your blood glucose levels. This script is just an excersise in parsing and displaying JSON data. 
 
-This program was not created by and has never been assesd by a medical professional at any point. **Do not use this script to asses or monitor your health**. Please use accredited programs and equipment that have been recomended by medical professionals to monitor and asses your blood glucose levels. This script is just an excersise in parsing and displaying JSON data. 
- 
-
-requirements can be found in requirements.txt
